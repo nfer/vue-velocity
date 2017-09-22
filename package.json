@@ -1,0 +1,29 @@
+{
+  "name": "vue-velocity",
+  "version": "0.1.0",
+  "description": "",
+  "main": "vue-velocity",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfer/vue-velocity.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-velocity",
+    "vue velocity",
+    "vue plugin"
+  ],
+  "author": "Nfer Zhuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nfer/vue-velocity/issues"
+  },
+  "homepage": "https://github.com/nfer/vue-velocity",
+  "dependencies": {
+    "q": "^1.5.0",
+    "velocity-animate": "^1.5.0"
+  }
+}
